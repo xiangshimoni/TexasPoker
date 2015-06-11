@@ -42,3 +42,10 @@ http://www.gnu.org/software/octave/
 ---
 Ð§¹ûÔ¤ÀÀ
 
+![matlab1](https://github.com/xiangshimoni/TexasPoker/blob/master/%E8%BF%90%E8%A1%8C%E6%95%88%E6%9E%9C%E6%88%AA%E5%9B%BE/matlab1.jpg "")
+
+![matlab2](https://github.com/xiangshimoni/TexasPoker/blob/master/%E8%BF%90%E8%A1%8C%E6%95%88%E6%9E%9C%E6%88%AA%E5%9B%BE/matlab2.jpg "")
+
+![octave1](https://github.com/xiangshimoni/TexasPoker/blob/master/%E8%BF%90%E8%A1%8C%E6%95%88%E6%9E%9C%E6%88%AA%E5%9B%BE/octave1.jpg "")
+
+![octave2](https://github.com/xiangshimoni/TexasPoker/blob/master/%E8%BF%90%E8%A1%8C%E6%95%88%E6%9E%9C%E6%88%AA%E5%9B%BE/octave2.jpg "")
