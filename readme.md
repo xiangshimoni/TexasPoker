@@ -1,4 +1,8 @@
 #使用说明
+
+
+2015华为软件精英挑战赛处理replay文件，对金币和筹码进行绘图的脚本。  
+
 ---
 本脚本包含两个目录：  
 
@@ -34,3 +38,7 @@ octave使用octave Octave 3.6.4编写
 
 octave 下载地址：  
 http://www.gnu.org/software/octave/
+
+---
+效果预览
+
