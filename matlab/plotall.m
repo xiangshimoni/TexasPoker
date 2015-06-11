@@ -8,7 +8,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 close all;clear;clc;
 %% 进入工作目录
-path = 'C:\replay\';
+path = uigetdir('选择replay目录') ;
+%path = 'M:\Personal\Work\华为软件精英挑战赛\matlab处理\replay\';
 %% 自己的id
 myID = 74;
 %% 获取所有文件
